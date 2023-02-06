@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Muli', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+/*Paneles*/
+
+.contenedor{
+    display: flex;
+    width: 90vw;
+}
+
+.panel{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+    border-radius: 50px;
+    color: white;
+    text-shadow: black 1px 0 10px;
+    cursor: pointer;
+    flex: 0.5;
+    margin: 10px;
+    position: relative;
+    transition: flex 0.7s ease-in;
+}
+
+.panel h3{
+    font-size: 24px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    margin: 0;
+    opacity: 0;
+}
+
+.panel.active{
+    flex: 5;
+}
+
+.panel.active h3{
+    opacity: 1;
+    transition: opacity 0.3s ease-in 0.4s;
+}
+
+@media(max-width: 480px){
+    .contenedor{
+        width: 100vw;
+    }
+}
+
+/*IMAGEN DE LAS CARTAS*/
+
+#muralla{
+    background-image: url('https://historia.nationalgeographic.com.es/medio/2014/06/12/china2_1787x2000.jpg');
+}
+
+#petra{
+    background-image: url('https://static.nationalgeographic.es/files/styles/image_3200/public/petra-world-heritage-jordan.jpg?w=1600');
+}
+
+#coliseo{
+    background-image: url('https://www.barcelo.com/guia-turismo/wp-content/uploads/2020/01/coliseo-romano-1.jpg');
+}
+
+#chichenItza{
+    background-image: url('https://www.chichenitza.com/public/assets/img/chichen-itza-tour.jpg');
+}
+
+#machuPicchu{
+    background-image: url('https://viajes.nationalgeographic.com.es/medio/2022/08/31/machu-picchu_8c3f78f9_800x800.jpg');
+}
+
+#cristo{
+    background-image: url('https://cloudfront-us-east-1.images.arcpublishing.com/eluniverso/7QLHZD4PFNHVTL5ND7UDD4X5UQ.jpg');
+}
+
+#tajMahal{
+    background-image: url('https://static.nationalgeographicla.com/files/styles/image_3200/public/93080.jpg?w=1900&h=1425');
+}
