@@ -73,7 +73,7 @@ body{
     transition: .4s ease;
 }
 
-.circulo.active{
+.circulo.activo{
     border-color: var(--borde-lleno);
     color: black;
 }
@@ -89,7 +89,7 @@ body{
     font-size: 14px;
 }
 
-.btn:active{
+.btn:activo{
     transform: scale(0.98);
 }
 
