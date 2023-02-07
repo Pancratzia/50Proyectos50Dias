@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
+
+
+:root{
+    --borde-lleno: #4a0964;
+    --borde-vacio: #e0e0e0;
+}
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #f6f7fb;
+    font-family: 'Muli', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+/*Proyecto*/
+
+.contenedor{
+    text-align: center;
+}
+
+.contenedor-progreso{
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    margin-bottom: 30px;
+    max-width: 100%;
+    width: 350px;
+}
+
+.contenedor-progreso::before{
+    content: '';
+    background-color: var(--borde-vacio);
+    position: absolute;
+    top:50%;
+    left: 0;
+    transform: translateY(-50%);
+    height: 4px;
+    width: 100%;
+    z-index: -1;
+}
+
+.progreso{
+    background-color: var(--borde-lleno);
+    position: absolute;
+    top:50%;
+    left: 0;
+    transform: translateY(-50%);
+    height: 4px;
+    width: 0%;
+    z-index: -1;
+    transition: .4s ease;
+}
+
+.circulo{
+    color:#999;
+    background-color: white;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px solid var(--borde-vacio);
+    transition: .4s ease;
+}
+
+.circulo.active{
+    border-color: var(--borde-lleno);
+    color: black;
+}
+
+.btn{
+    background-color: var(--borde-lleno);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-family: inherit;
+    padding: 8px 30px;
+    margin: 5px;
+    font-size: 14px;
+}
+
+.btn:active{
+    transform: scale(0.98);
+}
+
+.btn:focus{
+    outline: none;
+}
+
+.btn:disabled{
+    background-color: var(--borde-vacio);
+    cursor: not-allowed;
+}
