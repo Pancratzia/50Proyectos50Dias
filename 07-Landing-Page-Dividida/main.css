@@ -6,6 +6,11 @@
     /*--color_btn_izq_hover: rgba(87, 84, 236, 1);*/
     --color_btn_izq_hover: black;
     --color_btn_der_hover: rgba(28,122,28,1);
+
+    --hover-width: 75%;
+    --hover-width-2: 25%;
+
+    --velocidad: 1000ms;
 }
 
 *{
@@ -100,4 +105,42 @@ h1{
     width: 100%;
     height: 100%;
     background-color: var(--color_bg_der);
+}
+
+.division.derecha, .division.izquierda, .division.izquierda::before, .division.derecha::before{
+    transition: all var(--velocidad) ease-in-out;
+}
+
+
+.hover-izq .izquierda{
+
+    width: var(--hover-width);
+}
+
+.hover-izq .derecha{
+
+    width: var(--hover-width-2);
+}
+
+.hover-der .izquierda{
+
+    width: var(--hover-width-2);
+}
+
+.hover-der .derecha{
+
+    width: var(--hover-width);
+}
+
+@media(max-width: 800px){
+    h1{
+        font-size: 2rem;
+        top: 30%;
+    }
+
+    .btn{
+        width: 12rem;
+        padding: 1.2rem;
+
+    }
 }
