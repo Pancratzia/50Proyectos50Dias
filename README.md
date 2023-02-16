@@ -11,4 +11,5 @@
 | 07  | [Landing Page Dividida](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/07-Landing_Page_Dividida)                             | [Live Demo](https://landingpagedividida-pancratzia.netlify.app/)               |
 | 08  | [Formulario Animado](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/08-Formulario_Animado)                             | [Live Demo](https://formularioanimado-pancratzia.netlify.app/)               |
 | 09  | [Efectos de Sonido](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/09-Efectos_De_Sonido)                             | [Live Demo](https://efectosdesonido-pancratzia.netlify.app/)               |
+| 10  | [Chistes Malos](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/10-chistes_Malos)                             | [Live Demo](https://chistesmalos-pancratzia.netlify.app/)               |
 
