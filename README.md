@@ -13,5 +13,5 @@
 | 09  | [Efectos de Sonido](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/09-Efectos_De_Sonido)                             | [Live Demo](https://efectosdesonido-pancratzia.netlify.app/)               |
 | 10  | [Chistes Malos](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/10-Chistes_Malos)                             | [Live Demo](https://chistesmalos-pancratzia.netlify.app/)               |
 | 11  | [Teclas y Eventos](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/11-Teclas_Y_Eventos)                             | [Live Demo](https://teclasyeventos-pancratzia.netlify.app/)               |
-| 12  | [Teclas y Eventos](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/12-FAQ_Colapsado)                             | [Live Demo](https://faqcolapsado-pancratzia.netlify.app/)               |
+| 12  | [FAQ Colapsado](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/12-FAQ_Colapsado)                             | [Live Demo](https://faqcolapsado-pancratzia.netlify.app/)               |
 
