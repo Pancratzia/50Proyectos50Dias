@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+
+:root{
+    --primario: #22254b;
+    --secundario: #373b69;
+}
+
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    /*display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;*/
+    margin: 0;
+    background-color: var(--primario);
+}
+
+header{
+    padding: 1rem;
+    display: flex;
+    justify-content: flex-end;
+    background-color: var(--secundario);
+}
+
+.busqueda{
+    background-color: transparent;
+    border: 2px solid var(--primario);
+    border-radius: 50px;
+    font-family: inherit;
+    font-size: 1rem;
+    padding: .5rem 1rem;
+    color: white;
+}
+
+.busqueda::placeholder{
+    color: #7378c5;
+}
+
+.busqueda:focus{
+    outline: none;
+    background-color: var(--primario);
+}
+
+main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pelicula{
+    width: 300px;
+    margin: 1rem;
+    background-color: var(--secundario);
+    box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+    position: relative;
+    overflow: hidden;
+    border-radius: 3px;
+}
+.pelicula img{
+    width: 100%;
+}
+
+.info-pelicula{
+    color: #eee;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 1rem 1rem;
+    letter-spacing: .5px;
+}
+
+.info-pelicula h3{
+    margin-top: 0;
+}
+
+.info-pelicula span{
+    background-color: var(--primario);
+    padding: .25rem .5rem;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.info-pelicula span.verde{
+    color: lightgreen;
+}
+.info-pelicula span.naranja{
+    color: orange;
+}
+.info-pelicula span.rojo{
+    color: red;
+}
+
+.resenna{
+    background-color: white;
+    padding: 2rem;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    max-height: 100%;
+    transform: translateY(101%);
+    transition: transform 0.3s ease-in;
+}
+
+.pelicula:hover .resenna{
+    transform: translateY(0);
+}
+
+
+
