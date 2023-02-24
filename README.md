@@ -19,3 +19,5 @@
 | 15  | [Contador](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/15-Contador)                             | [Live Demo](https://contador-pancratzia.netlify.app/)               |
 | 16  | [Bebe Agua](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/16-Bebe_Agua)                             | [Live Demo](https://bebeagua-pancratzia.netlify.app/)               |
 | 17  | [Peliculas](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/17-Peliculas)                             | [Live Demo](https://peliculas-pancratzia.netlify.app/)               |
+| 18  | [Background Slider](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/18-Background_Slider)                             | [Live Demo](https://backgroundslider-pancratzia.netlify.app/)               |
+| 19  | [Peliculas](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/19-Reloj)                             | [Live Demo](https://reloj-pancratzia.netlify.app/)               |
