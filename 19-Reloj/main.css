@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300&display=swap');
+
+:root{
+    --primario: #000;
+    --secundario: #fff;
+}
+
+html{
+    transition: all .5s ease-in;
+}
+
+html.dark{
+    --primario: #fff;
+    --secundario: #333;
+}
+
+
+
+html.dark{
+    background-color: #111;
+    color: var(--primario);
+}
+
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Heebo', sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+.toggle{
+    background-color: var(--primario);
+    color: var(--secundario);
+    border: 0;
+    border-radius: 4px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 100px;
+    cursor: pointer;
+}
+
+.toggle:focus{
+    outline: none;
+}
+
+.contenedor-reloj{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.reloj{
+    position: relative;
+    width: 200px;
+    height: 200px;
+}
+
+.aguja{
+    background-color: var(--primario);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 65px;
+    width: 3px;
+    transform-origin: bottom center;
+    transition:  all .5s ease-in;
+}
+
+.aguja.hora{
+    transform: translate(-50%, -100%) rotate(0deg);
+}
+
+.aguja.minuto{
+    transform: translate(-50%, -100%) rotate(0deg);
+    height: 100px;
+}
+
+.aguja.segundo{
+    transform: translate(-50%, -100%) rotate(0deg);
+    height: 100px;
+    background-color: #e74c3c;
+}
+
+.centro{
+    background-color: #e74c3c;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+}
+
+.centro::after{
+    content: '';
+    background-color: var(--primario);
+    width: 5px;
+    height: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 50%;
+}
+
+.tiempo{
+    font-size: 60px;
+}
+
+.fecha{
+    color: #aaa;
+    font-size: 14px;
+    letter-spacing: .3px;
+    text-transform: uppercase;
+}
+
+.fecha .numero{
+    background-color: var(--primario);
+    color: var(--secundario);
+    border-radius: 50%;
+    height: 18px;
+    width: 18px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 18px;
+    transition: all .5s ease-in;
+    font-size: 12px;
+}
