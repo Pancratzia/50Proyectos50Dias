@@ -5,13 +5,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Botón Con Efecto</title>
+    <title>App de Dibujo</title>
     <link rel="stylesheet" href="main.css">
 </head>
 
 <body>
 
-  <button class="efecto">Presióname</span></button>
+  <canvas id="canvas" width="800px" height="800px"></canvas>
+  <div class="herramientas">
+    <button id="menos">-</button>
+    <span id="tamanno">10</span>
+    <button id="mas">+</button>
+    <input type="color" id="color">
+    <button id="limpiar">X</button>
+
+  </div>
 
   <script src="main.js"></script>
 </body>
