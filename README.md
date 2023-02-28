@@ -21,4 +21,7 @@
 | 17  | [Peliculas](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/17-Peliculas)                             | [Live Demo](https://peliculas-pancratzia.netlify.app/)               |
 | 18  | [Background Slider](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/18-Background_Slider)                             | [Live Demo](https://backgroundslider-pancratzia.netlify.app/)               |
 | 19  | [Reloj](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/19-Reloj)                             | [Live Demo](https://reloj-pancratzia.netlify.app/)               |
-| 20  | [Botón con Efecto](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/20-Boton_Con_Efecto)                             | [Live Demo](https://botonconefecto-pancratzia.netlify.app/)               |
+| 20  | [Drag & Drop](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/20-Boton_Con_Efecto)                             | [Live Demo](https://botonconefecto-pancratzia.netlify.app/)               |
+| 21  | [Botón con Efecto](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/21-Drag_N_Drop)                             | [Live Demo](https://dragndrop-pancratzia.netlify.app/)               |
+| 22  | [App De Dibujo](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/22-App_Dibujo)                             | [Live Demo](https://appdibujo-pancratzia.netlify.app/)               |
+| 23  | [Triángulos Animados](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/23-Triangulos)                             | [Live Demo](https://triangulos-pancratzia.netlify.app/)               |
