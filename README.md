@@ -27,3 +27,4 @@
 | 23  | [Triángulos Animados](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/23-Triangulos)                             | [Live Demo](https://triangulos-pancratzia.netlify.app/)               |
 | 24  | [Placeholder para Contenido](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/24-Placeholder_Para_Contenido)                             | [Live Demo](https://placeholderparacontenido-pancratzia.netlify.app/)               |
 | 25  | [Navegación Fija](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/25-Navegacion_Fija)                             | [Live Demo](https://navegacionfija-pancratzia.netlify.app/)               |
+| 26  | [Slider Doble](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/26-Slider_Doble)                             | [Live Demo](https://sliderdoble-pancratzia.netlify.app/)               |
