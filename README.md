@@ -31,3 +31,4 @@
 | 27  | [Notificaciones](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/27-Notificaciones)                             | [Live Demo](https://notificaciones-pancratzia.netlify.app/)               |
 | 28  | [Perfiles de GitHub](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/28-Perfiles_De_GitHub)                             | [Live Demo](https://perfilesdegithub-pancratzia.netlify.app/)               |
 | 29  | [Like Con Doble Click](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/29-Like_Con_Doble_Click)                             | [Live Demo](https://likecondobleclick-pancratzia.netlify.app/)               |
+| 30  | [Texto Automático](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/30-Texto_Automatico)                             | [Live Demo](https://textoautomatico-pancratzia.netlify.app/)               |
