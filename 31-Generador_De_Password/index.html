@@ -5,12 +5,53 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css">
     <title>Generador de Contraseñas</title>
     <link rel="stylesheet" href="main.css">
 </head>
 
 <body>
 
+  <div class="contenedor">
+    <h2>Generador de Contraseñas</h2>
+    <div class="contenedor-password">
+      <span id="password"></span>
+      <button class="btn" id="clipboard">
+        <i class="fa fa-clipboard"></i>
+      </button>
+    </div>
+
+    <div class="configuraciones">
+
+      <div class="configuracion">
+        <label>Longitud</label>
+        <input type="number" id="tamanno" min="4" max="20" value="20">
+      </div>
+
+      <div class="configuracion">
+        <label>Incluir Letras Mayúsculas</label>
+        <input type="checkbox" id="mayusculas" checked>
+      </div>
+
+      <div class="configuracion">
+        <label>Incluir Letras Minúsculas</label>
+        <input type="checkbox" id="minusculas" checked>
+      </div>
+
+      <div class="configuracion">
+        <label>Incluir Números</label>
+        <input type="checkbox" id="numeros" checked>
+      </div>
+
+      <div class="configuracion">
+        <label>Incluir Símbolos</label>
+        <input type="checkbox" id="simbolos" checked>
+      </div>
+
+    </div>
+
+    <button class="btn btn-largo" id="generar">Generar Contraseña</button>
+  </div>
   <script src="main.js"></script>
 </body>
 
