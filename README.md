@@ -33,3 +33,4 @@
 | 29  | [Like Con Doble Click](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/29-Like_Con_Doble_Click)                             | [Live Demo](https://likecondobleclick-pancratzia.netlify.app/)               |
 | 30  | [Texto Automático](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/30-Texto_Automatico)                             | [Live Demo](https://textoautomatico-pancratzia.netlify.app/)               |
 | 31  | [Generador de Contraseñas](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/31-Generador_De_Password)                             | [Live Demo](https://generadordepassword-pancratzia.netlify.app/)               |
+| 32  | [Checkboxes](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/32-Checkboxes)                             | [Live Demo](https://checkboxes-pancratzia.netlify.app/)               |
