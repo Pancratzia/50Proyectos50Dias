@@ -35,3 +35,4 @@
 | 31  | [Generador de Contraseñas](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/31-Generador_De_Password)                             | [Live Demo](https://generadordepassword-pancratzia.netlify.app/)               |
 | 32  | [Checkboxes](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/32-Checkboxes)                             | [Live Demo](https://checkboxes-pancratzia.netlify.app/)               |
 | 33  | [App de Notas](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/33-App_De_Notas)                             | [Live Demo](https://appdenotas-pancratzia.netlify.app/)               |
+| 34  | [Contador Animado](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/34-Contador_Animado)                             | [Live Demo](https://contadoranimado-pancratzia.netlify.app/)               |
