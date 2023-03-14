@@ -38,3 +38,4 @@
 | 34  | [Contador Animado](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/34-Contador_Animado)                             | [Live Demo](https://contadoranimado-pancratzia.netlify.app/)               |
 | 35  | [Carrusel de Imagénes](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/35-Carrusel_De_Imagenes)                             | [Live Demo](https://carruseldeimagenes-pancratzia.netlify.app/)               |
 | 36  | [Hoverboard](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/36-Hoverboard)                             | [Live Demo](https://hoverboard-pancratzia.netlify.app/)               |
+| 37  | [Pokedex](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/37-Pokedex)                             | [Live Demo](https://pokedex-pancratzia.netlify.app/)               |
