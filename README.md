@@ -40,5 +40,5 @@
 | 36  | [Hoverboard](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/36-Hoverboard)                             | [Live Demo](https://hoverboard-pancratzia.netlify.app/)               |
 | 37  | [Pokedex](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/37-Pokedex)                             | [Live Demo](https://pokedex-pancratzia.netlify.app/)               |
 | 38  | [Celular UI](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/38-Celular_UI)                             | [Live Demo](https://celularui-pancratzia.netlify.app/)               |
-| 39  | [Celular UI](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/39-Seguridad_De_Password)                             | [Live Demo](https://seguridaddepassword-pancratzia.netlify.app/)               |
+| 39  | [Seguridad de Contraseña](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/39-Seguridad_De_Password)                             | [Live Demo](https://seguridaddepassword-pancratzia.netlify.app/)               |
 | 40  | [Cajas 3D](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/40-Cajas_3D)                             | [Live Demo](https://cajas3d-pancratzia.netlify.app/)               |
