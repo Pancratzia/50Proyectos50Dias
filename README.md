@@ -43,3 +43,4 @@
 | 39  | [Seguridad de Contraseña](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/39-Seguridad_De_Password)                             | [Live Demo](https://seguridaddepassword-pancratzia.netlify.app/)               |
 | 40  | [Cajas 3D](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/40-Cajas_3D)                             | [Live Demo](https://cajas3d-pancratzia.netlify.app/)               |
 | 41  | [Verificar Cuenta (UI)](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/41-UI_Verificar_Cuenta)                             | [Live Demo](https://verificarcuenta-pancratzia.netlify.app/)               |
+| 42  | [Filtro de Usuarios](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/42-Filtro_De_Usuarios)                             | [Live Demo](https://filtrodeusuarios-pancratzia.netlify.app/)               |
