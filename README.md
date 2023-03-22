@@ -46,3 +46,4 @@
 | 42  | [Filtro de Usuarios](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/42-Filtro_De_Usuarios)                             | [Live Demo](https://filtrodeusuarios-pancratzia.netlify.app/)               |
 | 43  | [Review](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/43-Review)                             | [Live Demo](https://review-pancratzia.netlify.app/)               |
 | 44  | [Slider](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/44-Slider)                             | [Live Demo](https://slider-pancratzia.netlify.app/)               |
+| 45  | [Menú de Navegación Animado](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/45-Menu_De_Navegacion_Animado)                             | [Live Demo](https://menudenavegacionanimado-pancratzia.netlify.app/)               |
