@@ -49,3 +49,5 @@
 | 45  | [Menú de Navegación Animado](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/45-Menu_De_Navegacion_Animado)                             | [Live Demo](https://menudenavegacionanimado-pancratzia.netlify.app/)               |
 | 46  | [Quiz](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/46-Quiz)                             | [Live Demo](https://quiz-pancratzia.netlify.app/)               |
 | 47  | [Testimoniales](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/47-Testimoniales)                             | [Live Demo](https://testimoniales-pancratzia.netlify.app/)               |
+| 48  | [Feed de Imágenes](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/48-Feed_De_Imagenes)                             | [Live Demo](https://feeddeimagenes-pancratzia.netlify.app/)               |
+| 49  | [Cosas Por Hacer](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/49-Cosas_Por_Hacer)                             | [Live Demo](https://cosasporhacer-pancratzia.netlify.app/)               |
