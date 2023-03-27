@@ -51,3 +51,4 @@
 | 47  | [Testimoniales](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/47-Testimoniales)                             | [Live Demo](https://testimoniales-pancratzia.netlify.app/)               |
 | 48  | [Feed de Imágenes](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/48-Feed_De_Imagenes)                             | [Live Demo](https://feeddeimagenes-pancratzia.netlify.app/)               |
 | 49  | [Cosas Por Hacer](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/49-Cosas_Por_Hacer)                             | [Live Demo](https://cosasporhacer-pancratzia.netlify.app/)               |
+| 50  | [Atrapa el Insecto](https://github.com/Pancratzia/50Proyectos50Dias/tree/main/50-Atrapa_El_Insecto)                             | [Live Demo](https://atrapaelinsecto-pancratzia.netlify.app/)               |
